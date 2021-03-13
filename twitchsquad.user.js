@@ -5,8 +5,8 @@
 // @version      0.0.1
 // @description  Show twitch squad streams side by side.
 // @match        *://*.twitch.tv/*
-// @downloadURL  https://github.com/Shawak/TwitchSquad/raw/master/twitchsquad.user.js
-// @updateURL    https://github.com/Shawak/TwitchSquad/raw/master/twitchsquad.user.js
+// @downloadURL  https://github.com/Shawak/TwitchSquad/raw/main/twitchsquad.user.js
+// @updateURL    https://github.com/Shawak/TwitchSquad/raw/main/twitchsquad.user.js
 // @grant        GM_addStyle
 // ==/UserScript==
 
