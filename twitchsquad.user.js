@@ -2,7 +2,7 @@
 // @name         TwitchSquad
 // @namespace    https://github.com/Shawak/TwitchSquad
 // @author       Shawak
-// @version      0.0.1
+// @version      0.0.2
 // @description  Show twitch squad streams side by side.
 // @match        *://*.twitch.tv/*
 // @downloadURL  https://github.com/Shawak/TwitchSquad/raw/main/twitchsquad.user.js
